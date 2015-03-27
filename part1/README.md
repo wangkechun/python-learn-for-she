@@ -1,13 +1,13 @@
 2015-03-27
 ----------
 
-- [ ] http://www.pythontip.com/coding/code_oj
+- [x] http://www.pythontip.com/coding/code_oj
 完成第一页
 
 
-- [ ] 安装  ipython，  ipthon notebook
+- [x] 安装  ipython，  ipthon notebook
 
-- [ ] 注册github账号
+- [x] 注册github账号
 
 - [ ] [Codeforces](http://codeforces.com/contests) Round #297&&#296 (Div. 2) 用python通过第一题，然后在status里面和别人代码比较下
 
